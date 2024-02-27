@@ -17,10 +17,12 @@ public class Ativ5 {
 			a[i] = ler.nextInt();
 		}
 
-		// Le os 10 numeros e os poe em A[], eleva eles ao quadrado para por em B[]
+		// Le os 10 numeros e os poe em B[]
 		System.out.println("Informe os 10 Numeros Inteiros de B");
 		for (int i = 0; i < b.length; i++) {
 			b[i] = ler.nextInt();
+
+			// Calcula o C[]
 			c[i] = a[i] + b[i];
 		}
 
