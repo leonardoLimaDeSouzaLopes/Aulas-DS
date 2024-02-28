@@ -20,7 +20,7 @@ public class Ativ1 {
 		double perimetro = 2*(base+altura), area = base*altura;
 		
 		// Mostra o resultado
-		System.out.println("Perimetro �: "+ perimetro +" e a �rea: "+ area);
+		System.out.println("Perimetro e: "+ perimetro +" e a area: "+ area);
 		
 		// Fecha o Objeto Scanner
 		ler.close();
